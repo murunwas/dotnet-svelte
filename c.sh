@@ -9,3 +9,7 @@ mv src svelte-app
 mv public wwwroot
 
 sh "./t.sh"
+sh "./d.sh"
+
+npm install
+npm run dev
